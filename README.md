@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
 ## String
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+## Hash Table
+|  |
+| ------- |
+| [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 <!---LeetCode Topics End-->

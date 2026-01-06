@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->

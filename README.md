@@ -8,6 +8,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |

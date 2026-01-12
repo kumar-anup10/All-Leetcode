@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2815-max-pair-sum-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |

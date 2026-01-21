@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
+| [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
+| [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |

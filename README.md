@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -20,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
@@ -70,4 +72,8 @@
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

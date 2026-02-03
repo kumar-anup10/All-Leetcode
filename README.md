@@ -12,6 +12,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kumar-anup10/All-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3637-trionic-array-i](https://github.com/kumar-anup10/All-Leetcode/tree/master/3637-trionic-array-i) |
 ## String
 |  |
 | ------- |

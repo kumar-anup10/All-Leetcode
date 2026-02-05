@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -25,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->

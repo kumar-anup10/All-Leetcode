@@ -7,6 +7,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0636-exclusive-time-of-functions](https://github.com/kumar-anup10/All-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -94,4 +95,5 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/kumar-anup10/All-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->

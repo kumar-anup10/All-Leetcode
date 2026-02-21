@@ -30,6 +30,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kumar-anup10/All-Leetcode/tree/master/0258-add-digits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1103-distribute-candies-to-people](https://github.com/kumar-anup10/All-Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kumar-anup10/All-Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/kumar-anup10/All-Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kumar-anup10/All-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kumar-anup10/All-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kumar-anup10/All-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/3248-snake-in-matrix) |
 ## Math
@@ -53,6 +54,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kumar-anup10/All-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kumar-anup10/All-Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |

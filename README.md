@@ -72,12 +72,14 @@
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -89,6 +91,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -113,6 +116,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bit Manipulation
 |  |

@@ -6,6 +6,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kumar-anup10/All-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/kumar-anup10/All-Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -79,6 +80,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -86,6 +88,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -128,9 +131,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Database
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/kumar-anup10/All-Leetcode/tree/master/0183-customers-who-never-order) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

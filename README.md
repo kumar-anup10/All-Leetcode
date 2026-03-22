@@ -75,6 +75,7 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -84,6 +85,7 @@
 | [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kumar-anup10/All-Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/kumar-anup10/All-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bit Manipulation
 |  |

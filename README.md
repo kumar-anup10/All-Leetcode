@@ -12,6 +12,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/kumar-anup10/All-Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumar-anup10/All-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kumar-anup10/All-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kumar-anup10/All-Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kumar-anup10/All-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kumar-anup10/All-Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kumar-anup10/All-Leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/kumar-anup10/All-Leetcode/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
